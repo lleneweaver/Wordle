@@ -13,6 +13,7 @@
 		AC5B992627FB2D2E00E85ABA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC5B992427FB2D2E00E85ABA /* Main.storyboard */; };
 		AC5B992827FB2D3B00E85ABA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AC5B992727FB2D3B00E85ABA /* Assets.xcassets */; };
 		AC5B992B27FB2D3B00E85ABA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC5B992927FB2D3B00E85ABA /* LaunchScreen.storyboard */; };
+		AC5B993427FC81D100E85ABA /* WordList.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5B993327FC81D100E85ABA /* WordList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AC5B992727FB2D3B00E85ABA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AC5B992A27FB2D3B00E85ABA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AC5B992C27FB2D3B00E85ABA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AC5B993327FC81D100E85ABA /* WordList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WordList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AC5B991E27FB2D2E00E85ABA /* AppDelegate.swift */,
 				AC5B992027FB2D2E00E85ABA /* SceneDelegate.swift */,
 				AC5B992227FB2D2E00E85ABA /* ViewController.swift */,
+				AC5B993327FC81D100E85ABA /* WordList.swift */,
 				AC5B992427FB2D2E00E85ABA /* Main.storyboard */,
 				AC5B992727FB2D3B00E85ABA /* Assets.xcassets */,
 				AC5B992927FB2D3B00E85ABA /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AC5B992327FB2D2E00E85ABA /* ViewController.swift in Sources */,
+				AC5B993427FC81D100E85ABA /* WordList.swift in Sources */,
 				AC5B991F27FB2D2E00E85ABA /* AppDelegate.swift in Sources */,
 				AC5B992127FB2D2E00E85ABA /* SceneDelegate.swift in Sources */,
 			);
